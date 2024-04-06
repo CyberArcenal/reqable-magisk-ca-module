@@ -13,7 +13,8 @@ or download it.
    
 2. Open the Reqable app and navigate to certificate management.
    
-3. Import the root certificate (.p12) by selecting "reqable-ca.p12".
+3. Import the root certificate (.p12) by selecting "reqable-ca.p12" password
+"123".
    
 4. Install "reqable.zip" in Magisk Modules.
 
