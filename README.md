@@ -8,6 +8,8 @@ This Magisk module allows you to easily install the Reqable root certificate on 
 ``
 git clone https://github.com/CyberArcenal/reqable-magisk-ca-module
 ``
+or download it.
+[download](https://github.com/CyberArcenal/reqable-magisk-ca-module/archive/refs/heads/main.zip)
    
 2. Open the Reqable app and navigate to certificate management.
    
